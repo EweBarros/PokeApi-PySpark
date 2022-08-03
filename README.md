@@ -1,6 +1,6 @@
  <img src="https://i.postimg.cc/ZRSDQWPG/pokeapi-pyspark.png" width = "500"/> <center>
 
-# Consumindo e analisando dados da PokéApi utilizando Pyspark
+# Consumindo e analisando dados da PokéApi utilizando Python e Pyspark
 
 Este projeto desenvolve um problema de pipeline de ponta a ponta, seguindo os seguintes passos:
 - Extração dos dados da [PokéApi](https://pokeapi.co/docs/v2), API oficial do jogo Pokémon, utilizando Python;
